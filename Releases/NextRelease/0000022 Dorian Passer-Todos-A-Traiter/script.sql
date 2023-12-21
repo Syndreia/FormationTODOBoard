@@ -1,0 +1,1 @@
+update todos set isProcessed = 0;
